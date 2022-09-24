@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h1>About Me 📌</h1>
 
 - 👋 I am Amran Elmasri
-- 👨‍💻 I’m currently Junior full stack developer.
+- 👨‍💻 I’m Junior full stack developer.
 - 🏦 I'm currently a CE student at IUG .
 
 # Contact
